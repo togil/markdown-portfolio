@@ -1,1 +1,1 @@
-[GitHub](http://www.equinor.com)
+[Equinor](http://www.equinor.com)
